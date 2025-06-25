@@ -1,5 +1,3 @@
-Deprecated public classes that we need to keep until we change the major version of the package to 3.x.
-Removing any public API in a minor version is forbidden.
-
-The issue is that updating the major version of a default package is forbidden in a stable Unity Editor version,
-so we cannot do it during the lifetime of Unity 6.x.
+version https://git-lfs.github.com/spec/v1
+oid sha256:009adcd74e8e012dffa82d6e1a54e6a6263536947057a7eb67b2cd83cd9ed27a
+size 328
